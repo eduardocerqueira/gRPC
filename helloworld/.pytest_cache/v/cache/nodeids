@@ -1,0 +1,6 @@
+[
+  "test_greeter_server.py::test_hw_sayhello[Eduardo]",
+  "test_greeter_server.py::test_hw_sayhello[Maria]",
+  "test_greeter_server.py::test_hw_sayhello[Jose]",
+  "test_greeter_server.py::test_hw_ola"
+]
