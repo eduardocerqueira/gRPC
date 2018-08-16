@@ -73,6 +73,20 @@ protoc.main((
 ))
 ```
 
+ref
+---
+
+-- Talks and presentations
+* https://grpc.io/docs/talks/
+* https://www.infoq.com/presentations/grpc
+* https://blog.openshift.com/openshift-commons-briefing-69-grpc-microservices-openshift-ray-tsang-google/
+
+-- sites and blogs
+* https://medium.com/@sankar.p/how-grpc-convinced-me-to-chose-it-over-rest-30408bf42794
+* https://opensource.google.com/projects/grpc
+* https://grpc.io/
+* https://developers.google.com/protocol-buffers/docs/overview
+
 
 
 
